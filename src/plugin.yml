@@ -1,0 +1,9 @@
+name: PotionDeath
+version: 1.0
+author: CarnageLTK
+main: Main.Main
+api-version: 1.14
+commands:
+  potion:
+    description: Spawns random potion
+    usage: /<command> <boolean>
